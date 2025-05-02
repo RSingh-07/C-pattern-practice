@@ -15,4 +15,4 @@ This repository contains a growing collection of pattern printing programs in th
 | Pattern 3   | Sequential alphabets      | `A B C`                     |
 | Pattern 4   | Repeating numbers per row | `0 1 2`                     |
 | Pattern 5   | Continuous numbers        | `1 2 3` then `4 5 6`        |
-| Pattern 6   | _(yet to be added)_       |                             |
+| Pattern 6   | star right-angled triangle| '*' '**' '***'                            |
